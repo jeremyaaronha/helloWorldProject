@@ -6,8 +6,6 @@ The purpose of this software is to practice setting up a development environment
 
 {Describe your purpose for creating this software.}
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 I used Visual Studio Code to write and run the program.
